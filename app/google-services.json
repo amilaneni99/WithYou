@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1011949737037",
+    "firebase_url": "https://withyou-a2789.firebaseio.com",
+    "project_id": "withyou-a2789",
+    "storage_bucket": "withyou-a2789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011949737037:android:f898f995c89d1683",
+        "android_client_info": {
+          "package_name": "com.example.mayank.withyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011949737037-1jag7f1u72cu91s33hh1a64ftfc9k79p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayank.withyou",
+            "certificate_hash": "bf9e715827c94f19902083cb110759d7a7b3de1f"
+          }
+        },
+        {
+          "client_id": "1011949737037-baclj8hre0f2bclomt6ba95bt1vpob10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzMbzY0Bn9Y-K1rAer6j8u6z9vVBMr8CA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011949737037-baclj8hre0f2bclomt6ba95bt1vpob10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
